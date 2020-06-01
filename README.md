@@ -1,6 +1,6 @@
 # github-pmbok
 
-This is an endeavor to map the PMBOK processes to the GitHub UI and featureset.
+This is an endeavor to map the PMBOK processes to the GitHub UI and featureset. The originating use case for this mapping is Open Source Software projects.
 
 ## 1. Identify stakeholders
 
@@ -31,7 +31,9 @@ who signs off on the project);
 At a high level, the project charter ensures a common understanding by the stakeholders of the key deliverables,
 milestones, and the roles and responsibilities of everyone involved in the project.
 
-- Create new org-wide "Project"
-- First Column is project charter with the following cards:
-1. 
-- README.md using standard readme
+## Final FLow
+
+1. Create Github org, invite the stakeholders.
+1. Create new org-wide "project"
+2. First Column is project charter with the following cards
+3. README.md using standard readme
