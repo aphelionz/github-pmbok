@@ -1,14 +1,14 @@
 # github-pmbok
 
-Starting a new project: 
+This is an endeavor to map the PMBOK processes to the GitHub UI and featureset.
 
-1. Identify stakeholders
+## 1. Identify stakeholders
 
 - Create a new org if you need to (or same org if same stakeholders)
 - Invite stakeholders to the org
 - Use GH teams for access control, even if it's a small project
 
-2. Write project charter
+## 2. Write project charter
 
 > The project charter is the document issued by the project initiator or sponsor that formally authorizes the existence
 of a project and provides the project manager with the authority to apply organizational resources to project activities.
