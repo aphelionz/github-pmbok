@@ -3,4 +3,9 @@
 ## Risk #1: Zoom call doesn't work
 
 Impact: Very High
-Likliehood : Medium
+Liklihood: Medium
+
+## Risk #2: Mark talks too fast
+
+Impact: Medium
+Likelihood: High
