@@ -7,5 +7,5 @@ Liklihood: Medium
 
 ## Risk #2: Mark talks too fast
 
-Impact: Medium
-Likelihood: High
+Impact: High
+Likelihood: Very high
